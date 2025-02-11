@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: agvxnzt3y-python-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/agvxnzt3y-python
